@@ -53,6 +53,7 @@ To get a local copy up and running follow these simple example steps.
 	- [ ] Base logics
 - [ ] Swagger Docs
 - [ ] Init DB Migration
+- [ ] Cover logics with unit tests
 - [ ] Additional logics
 	- [ ] Additional params:
 		- [ ] Take into account the number of school shifts for the school when creating classes and schedules.
